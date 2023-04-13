@@ -1,0 +1,172 @@
+body{
+	margin: auto;
+}
+
+p{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	position: relative; 
+}
+
+ul,ol{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-size: 18px;
+}
+
+li{
+margin: 15px 0;
+}
+
+#a{
+	font-size: 40px;
+	position: relative;
+	left: 22;
+}
+
+
+#divCorpo{
+	background-color: white;
+	height:633px;
+	width:1000px;
+	position: relative;
+	border-style: outset;
+	top: 200;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+#divCorpo2{
+	background-color: white;
+	height:330px;
+	width:1000px;
+	position: relative;
+	border-style: outset;
+	top: -600;
+	margin: 0 -2 auto;
+	border-radius: 10px;
+}
+
+#divP2{
+	position: relative;
+	width: 260;
+	height:350;
+	top: -305;
+	left: 675;
+}
+
+#divCorpo3{
+	background-color: white;
+	height:530px;
+	width:1000px;
+	position: relative;
+	border-style: outset;
+	top: -565;
+	margin: 0 -2 auto;
+	border-radius: 10px;
+}
+
+#divP3{
+	background-color:  black;
+	position: relative;
+	width: 260;
+	height:350;
+	top: -305;
+	left: 680;
+}
+
+#divC{
+	background-color:;
+	height:625px;
+	width:600px;
+	position: relative;
+	left: 5;
+}
+
+#divQua{
+	background-color: #E5E5E6;
+	position: relative;
+	height: 135; 
+	width: 145;
+}
+
+#divBusca{
+    position: relative;
+    top: -80;
+    left: 700;
+    background-color:white;
+    border:solid 1px white;
+    border-radius:15px;
+    width:300px;
+
+}
+ 
+#txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:260px;
+}
+#S{
+	width: 30;
+	height:30;
+}
+
+#divMister{
+	background-color:#EBED1D;
+	position:fixed;
+	height:117px;
+	top:0;
+	left:0;
+	right:0;
+	margin: 0 auto;
+}
+
+#divI{
+	align-content: center;
+	position: relative;
+	width: 1000;
+	height:140;
+	margin: 0 auto;
+}
+
+#divB{
+	background-color: white;
+	position: fixed;
+	height:70px;
+	top: 117;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+
+#divIB{
+	background-color: transparent;
+	align-content: center;
+	position: relative;
+	height:70px;
+	width: 1000;	
+	margin: 0 auto;
+}
+
+a{
+	position: relative;
+	color: black;
+	text-decoration: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+#I{
+	position: relative;
+	width: 365;
+	height: 130;
+}
+
+#divP{
+	position: relative;
+	width: 260;
+	height:580;
+	top: -665;
+	left: 680;
+}
